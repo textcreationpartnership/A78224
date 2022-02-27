@@ -1,0 +1,486 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Logos agōnios; or, a sermon of the Christian race, preached before His Maiesty at Christ-Church in Oxford, May 9. 1643. By Tho: Barton Master of Arts, and yet Rector of Westminster in Sussex. Whereto is added an advertisement to his country-men, who being misled disaffect the royall cause.</title>
+            <author>Barton, Thomas, 1599 or 1600-1682 or 3.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78224</idno>
+            <idno type="STC">Wing B999</idno>
+            <idno type="STC">Thomason E106_17</idno>
+            <idno type="STC">ESTC R18899</idno>
+            <idno type="EEBO-CITATION">99860492</idno>
+            <idno type="PROQUEST">99860492</idno>
+            <idno type="VID">155988</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155988)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E106[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Logos agōnios; or, a sermon of the Christian race, preached before His Maiesty at Christ-Church in Oxford, May 9. 1643. By Tho: Barton Master of Arts, and yet Rector of Westminster in Sussex. Whereto is added an advertisement to his country-men, who being misled disaffect the royall cause.</title>
+                  <author>Barton, Thomas, 1599 or 1600-1682 or 3.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.L.,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first two words in the title are printed in Greek characters.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "17th June".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Hebrews XII, 1 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155988:1" rendition="simple:additions"/>
+            <p>ΛΟΓΟΣ ΑΓΩΝΙΟΣ; OR, A SERMON OF THE <hi>CHRISTIAN RACE,</hi> Preached before HIS MAIESTY At <hi>Christ-Church</hi> in OXFORD, <hi>May</hi> 9. 1643.</p>
+            <p>By THO: BARTON Maſter of Arts, and yet Rector <hi>of Weſtminſton in Suſſex.</hi>
+            </p>
+            <p>Whereto is added an advertiſement to his Country-men, who being miſled <hi>diſaffect the Royall cauſe.</hi>
+            </p>
+            <q>
+               <bibl>1. COR. 9.24.</bibl> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </q>
+            <q>Vtilitas proximo: gloria Deo.</q>
+            <p>Printed by L.L. 1643.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:155988:2"/>
+            <pb facs="tcp:155988:2"/>
+            <head>TO The Right Worſhipfull THOMAS COVERT LIEUTENANT COLONELL of a Regiment of Horſe in His MAjESTIES Army <hi>at Oxford.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Forget not to pay the Honour left due unto your Anceſtors. Your emulation of thir loyalty, and proweſſe calls for an accompt from mee. Nor can I make a full
+<pb facs="tcp:155988:3"/>one without an <hi>euge</hi> to your inflection toward the royall Mine. Perſiſt then, and be eternized in the juſteſt cauſe of God and the King. You ſhall not looſe in ſuch zeale, nor I by the divine fuell that maintaines it. Both will be gainers. You may get enough, and J keep in store to fi<g ref="char:EOLhyphen"/>niſh an everlaſting monument. Thereto ſubſcribing, I am ingaged before the World, and, delivering this to remember you, enabled to acquit my ſelfe</p>
+            <closer>
+               <signed>No leſſe faithfull then affectionat THO: BARTON.</signed>
+               <date>
+                  <hi>Iun.</hi> 2. 1643.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:155988:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>HEB. 12.1.</hi>
+               </bibl>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q>
+               <q>Let us runne with patience the race that is ſet before us.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He firſt word of this verſe brings on, from the for<g ref="char:EOLhyphen"/>mer Chapter, our reſo<g ref="char:EOLhyphen"/>lution thus. We have <hi>A<g ref="char:EOLhyphen"/>bel, Enoch, Noah, Abra<g ref="char:EOLhyphen"/>ham, Sarah, Iſaac, Iacob, Ioſeph, Moſes, Rahab, Gedeon, Barac, Sampſon, Iephthe, David, Samuel,</hi> the Prophets; in ſumme, of whom the world was not worthy, a cloud of witneſſes.</p>
+            <p>Whereof there be ſuch and ſo many Martyrs none may doubt the practice. Who doe not, en<g ref="char:EOLhyphen"/>during oppreſſion, will not abide depreſſures. Ex<g ref="char:EOLhyphen"/>onerated
+<pb n="2" facs="tcp:155988:4"/>of ſo much evill to our innate affliction is the corroſive.</p>
+            <p>The more then we ſuffer, we are furthered the more. Swifter our ſpeed, our conſtancy greater, eaſier our race.</p>
+            <p>
+               <hi>Tria ſunt omnia;</hi> our Pace, our Patience, our Path. <hi>Let us run with patience the race which is ſet before us.</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Let us runne.</q>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> admits no Ceſſation. A violent motion and continued.</p>
+            <p>
+               <hi>Man is borne unto labour,</hi>
+               <note place="margin">
+                  <hi>Iob.</hi> 5.7.</note> 
+               <hi>as the ſparkes fly upward.</hi> That preceds, &amp; there's no other way to reſt, Acti<g ref="char:EOLhyphen"/>on is the life of Chriſtianity, as obedience of ſer<g ref="char:EOLhyphen"/>vice.</p>
+            <p>On we muſt; too ſoon we cannot: delay we may not. Occaſion ſlipt is hardly recovered. Want of expedition is often the loſſe of great deſignes.</p>
+            <p>Naturally all runne ſo, from life to death. Cri<g ref="char:EOLhyphen"/>minally ill men doe, from grace to ſinne. Spiritual<g ref="char:EOLhyphen"/>ly true Chriſtians only, from ſinne to grace.</p>
+            <p>Who are of the ſecond, I adviſe to amend the fault, and with the third prevent the firſt.</p>
+            <list>
+               <item>1. The firſt is like the courſe of a Ship under ſaile. The body being once animated, the whole man is ſuddainly transferred. <hi>Our daies out run the poſt. Iob.</hi> 9.25.</item>
+               <item>2. The ſecond as running of water into the Sea. So ſinners are by the eddy of humors carried unto the <hi>Mare mortuum</hi> of iniquities. <hi>Their feet run to evill, and they haſten to ſhed blood. Prov.</hi> 1.16.</item>
+               <pb n="3" facs="tcp:155988:4"/>
+               <item>3. The third, <hi>Secundùm motum primi mobilis,</hi> like that of the Sunne. The juſt, they, ceaſe not to runne in the exerciſe of virtues.</item>
+            </list>
+            <p n="1">1. Firſt toward the Weſt, in a holy conſidera<g ref="char:EOLhyphen"/>tion of their naturall corruption, dayly falls, and death the cataſtrophe of all.</p>
+            <p n="2">2. Secondly toward the Eaſt, ſubliming their thoughts, and forcing all the faculties of ſoule and body to be conformable unto the will of God.</p>
+            <p>Who wait upon the Lord renewing their ſtrength mount up with wings as Eagles. <hi>Running they wax not weary, nor walking faint. Iſa,</hi> 40.31.</p>
+            <p>Runners indeed: nothing behind withdrawes, nothing on the right hand inveagles, and on the left nothing burthens them. Avoyding all things that may hinder, they be in heaven before the worldling is aware, or themſelves goe hence.</p>
+            <p>Yet ſo zealous, keep, <hi>&amp; affectum, &amp; intellectum,</hi> both will, and wit. Both: for will without reaſon runs to a precipice.</p>
+            <p>We need not range abroad for inſtances: there be too many thouſands in this Kingdome, God en<g ref="char:EOLhyphen"/>lighten them, that they may ſee, whileſt he enables us to withſtand their folly.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding,</hi> and <hi>affection,</hi> theſe right produce <hi>zeale,</hi> and zeale pleaſeth God as love delighteth men. No variable, or halting, or Snaile-like, or La<g ref="char:EOLhyphen"/>odicean motion: yet neither furious nor remiſſe. A Lyon cannot ſtop, no <hi>Circean</hi> dreg, nor <hi>Orphean</hi> note divert it. Among riſings and fallings the ſame ſtill.</p>
+            <pb n="4" facs="tcp:155988:5"/>
+            <p>As the Hound after the Hart, or the Hawke af<g ref="char:EOLhyphen"/>ter the Partridge, ſhe is ſwift to know, to practice ſwift. Alwaies devout, but at occurrences moſt fer<g ref="char:EOLhyphen"/>uent. <hi>David</hi> derided by <hi>Michal,</hi>
+               <note place="margin">2. <hi>Sam.</hi> 6.16. <hi>Judg.</hi> 16.30.</note> will be <hi>more vile for the Lords ſake.</hi> And <hi>Sampſon</hi> ever vexing the <hi>Philiſtims,</hi> ſlew more at his death, then in his whole life.</p>
+            <p>Foure things be little on earth, the Ant, the Co<g ref="char:EOLhyphen"/>nie, the Locuſt, the Spider, yet are exceeding wiſe, <hi>Prov.</hi> 30.24, 25. Silly creatures condemne idle men, and diſorderly. Statute-Proteſtants then and the lawleſſe may goe to Heaven when the Phariſes come from Hell.</p>
+            <p>Our Sauiour ſaid, <hi>I muſt work, Ioh.</hi> 9.4. How excellent is it for the Diſciple to be as his Maſter?</p>
+            <p>I am much taken that the Miniſters of the Lord are buſy in Sion, and bold for the truth. Nor is this all: the people learne to leave any thing ſave their o<g ref="char:EOLhyphen"/>bedience. That's it, that makes my exultation full.</p>
+            <p>So let our firſt love ever appeare, and faith being tryed the Goſpell will ſhine. Priſons are ſhaken with devotion, and 'tis the nature of Chriſtianity to flou<g ref="char:EOLhyphen"/>riſh under the Croſſe. Reſt was <hi>Moabs</hi> ruine, but the Arke of God did ſafely paſſe through the ſwel<g ref="char:EOLhyphen"/>lings of <hi>Iordan.</hi> If we enjoyed the former without holineſſe, the latter may ſanctify us unto happineſſe.</p>
+            <p>It may, if we ſtand not when God bids us goe; nor walke another way, when he ſaith come; nor lye downe, when he commands us to runne. But who runne, and runne from him, on them, <hi>ira effun<g ref="char:EOLhyphen"/>denda,</hi>
+               <pb n="5" facs="tcp:155988:5"/>the vialls of his wrath are ready to be pow<g ref="char:EOLhyphen"/>red.</p>
+            <p>On the Hereſiarchs, whether <hi>Arrians, Eutychi<g ref="char:EOLhyphen"/>ans, Nestorians,</hi> or who ever runne deſperately a<g ref="char:EOLhyphen"/>gainſt the fundamentalls of Religion.</p>
+            <p>On the Schiſmaticks, whether <hi>Browniſts,</hi> that wilfully runne to prophane the Temple, and conſe<g ref="char:EOLhyphen"/>crated things therein: or <hi>Anabaptiſts,</hi> that inſolent<g ref="char:EOLhyphen"/>ly runne to ſpit defiance in the face of Gods an<g ref="char:EOLhyphen"/>noynted, and every one dignified under him: or <hi>Aë<g ref="char:EOLhyphen"/>rians,</hi> that runne headlong to demoliſh the Apoſto<g ref="char:EOLhyphen"/>licall ſtructure of the Hierarchie.</p>
+            <p>On the <hi>Libertines</hi> that runne any way; on the <hi>Neuters</hi> that runne no way; on the Atheiſts that run from God to Nature.</p>
+            <p>But my charity much pittieth the ſimple throng, that, captived in a <hi>Smictymnuan</hi> ſnare by Ieſuited Prieſts, runne with a blind zeale to the effuſion of their brethrens blood, till they welter in their own.</p>
+            <p>Lord, convert their leaders in thy mercy, or to thy glory confound them in thine ire.</p>
+            <p>True Chriſtians we know the Kingdome of Hea<g ref="char:EOLhyphen"/>ven ſuffereth violence. Forcing therefore into it our motion from the firſt terme to the laſt is impetuous. Not to one ſide, nor to another; not forward now, and then backward; but ſtraight, even, vehement. Whoſe footſteps are prepoſed we tread them to perfection. Not beleeving we are before all, ear<g ref="char:EOLhyphen"/>neſtly contend not to be behind any. With unwea<g ref="char:EOLhyphen"/>ried bodies and undaunted ſpirits every one doth, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo ſtrive as he may not come ſhort of glo<g ref="char:EOLhyphen"/>ry.
+<pb n="6" facs="tcp:155988:6"/>Perpetually moving, &amp; ſtrongly, whoſe Orbe is Celeſtiall. Whom no worldly allectives may de<g ref="char:EOLhyphen"/>ceive, no fond opinions diſtract, no adverſe fortune frighten; who can be pleaſed to part with life and all in the cauſe, we, we will runne. And let us runne with patience.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> with Patience.</q>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is ſo much as the ſtout ſuſteining of an incurſe.</p>
+            <p>Some therefore, <hi>per periphraſin adverbii,</hi> tranſ<g ref="char:EOLhyphen"/>late it <hi>constantly.</hi> As if to ſet forth with full ſpeed, and afterward fall off, were ſhamefully to be fruſtra<g ref="char:EOLhyphen"/>ted of the promiſe. Happier is it not to be, then to be worſt in the end.</p>
+            <p>Others read, <hi>per tolerantiam,</hi> with <hi>durance.</hi> As i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſtians were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Theatrized, or brought forth on a ſtage of affliction. <hi>Heb.</hi> 10.33. S. <hi>Paul</hi> deſcribes how: <hi>by reproaches, impriſonments, ſtripes, labours, by perills at home, and abroad, by pe<g ref="char:EOLhyphen"/>rills.</hi> 2. <hi>Cor.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.23, 24. The way of Iſrael through the Red-ſea and Wilderneſſe;<note place="margin">1. <hi>Sam.</hi> 14.5.</note> or that of <hi>Ionathan</hi> and his Armour-bearer between the two ſharp Rocks <hi>Botzetz</hi> and <hi>Sene</hi> typified no leſſe.</p>
+            <p>Ioyne both, and here is meant the willing and conſtant bearing of the croſſe in this life, for the hopes ſake, which is laid up in heaven.</p>
+            <p>And if whom we ſuffer with, <hi>we ſhall alſo raigne with him,</hi> 2. <hi>Tim.</hi> 2.12. then there is great uſe of ſuch patience, that, after the will of God is done, we may receive the reward. <hi>Heb.</hi> 10.36.</p>
+            <p>Not only he, which taketh not up his <hi>croſſe,</hi> but
+<pb n="7" facs="tcp:155988:6"/>who alſo <hi>followeth not,</hi> is unworthy of mee, ſaith our Saviour, <hi>Mat.</hi> 10.38. For how ſhall that vir<g ref="char:EOLhyphen"/>tue injoy the inheritance, which failes before poſ<g ref="char:EOLhyphen"/>ſeſſion may be had?</p>
+            <p>Our tranſlation therefore renders it, <hi>with pati<g ref="char:EOLhyphen"/>ence</hi> rather then <hi>conſtantly.</hi> Becauſe there may be <hi>conſtancy</hi> without <hi>patience,</hi> but no <hi>patience</hi> without <hi>constancy.</hi>
+            </p>
+            <p>This I ſtand to, and my inference is thus, <hi>Dolor patientiâ opprimitur, ſi modò eſt aliqua patientia, griefe is quelled by patience, if there be any. Si nulla eſt, quid Religione exornamur? if there be none, why are wee palliated with Religion?</hi> We are not maugo<g ref="char:EOLhyphen"/>nized Chriſtians, but graffed into Chriſt.</p>
+            <p>To two things, that grieved the ſonne of <hi>Syrach,</hi> he added a third, which made him angrie. <hi>A man of warre, that ſuffereth poverty: men of underſtanding which are not ſet by; and one that returneth from righteouſneſſe unto ſinne. Eccluſ.</hi> 26.28.</p>
+            <p>His ſacred Majeſty may grieve for ſomethings, his indignation riſe at other, his juſtice command execution too in pitty of the maine, yet be patient, and merciful ſtill.</p>
+            <p>Thoſe paſſions proceeding from their juſt ob<g ref="char:EOLhyphen"/>jects derogate not from ſuch excellency. And the amputation of a gangreened member is in piety to conſerve the body ſound.</p>
+            <p>Let me not partake of <hi>Caſſandra's</hi> hap whileſt I tell the truth. The woe is to them that have loſt the vertue. <hi>For who wants her hath no hope, and without hope, what will we doe, when the Lord ſhall viſit us? Eccluſ.</hi> 2.14.</p>
+            <pb n="8" facs="tcp:155988:7"/>
+            <p>The hand once put to, may not be taken off the Plough, <hi>Luk.</hi> 9.62. To it we muſt, and that, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, daily. v.23. That is, <hi>ut dies diem conſequitur, it a crux crucem accipiat, as one day ſucceeds another, ſo one croſſe ſhould receive another.</hi>
+            </p>
+            <p>This concernes every one, but Gods Vice-gerent highly. For being <hi>ſolo Deo minor,</hi> that he may be the more like Chriſt his tolerance is the more.</p>
+            <p>
+               <hi>Naahs</hi> Arke, which repreſents the Church, was built of ſquared timber. <hi>Quadrati lapidis ſimilis de<g ref="char:EOLhyphen"/>bet eſſe Chriſtianus,</hi> a Chriſtian may not be round, but is cut into that forme, wherein he will be ever, and every way firme.</p>
+            <p>Firme to his profit, as the Merchant that regards not his paine. Firme to his honour, as the Souldi<g ref="char:EOLhyphen"/>er that minds not a wound. Firme to his love, as <hi>Iacob,</hi> that thought ſeven years ſhort. Firme to his God as <hi>Iob,</hi> that would dye rather then forſake his Saviour. Nothing can amate him, who runs, and looks unto Ieſus.</p>
+            <p>There be two ſorts of men unable to continue running, the feeble and the full. The one for lack of ſtrength, the other for want of breath.</p>
+            <p>Among the firſt S. <hi>Paul</hi> found the <hi>Galatians;</hi> who did runne well, yet were driven back. <hi>Gal.</hi> 4.9, 10. Theſe whileſt the wind is faire promiſe much proſperity; but when ſtormes ariſe, are toſſed to and fro by the fury of the guſts.</p>
+            <p>Among the other our Saviour took a certain man. <hi>Mar.</hi> 10.17. And ſuch a one, as we might think would winne the Garland. He wanted no ſtrength,
+<pb n="9" facs="tcp:155988:7"/>his bones were full of Marrow. <hi>Mat.</hi> 19.20. His pace was ſwift, he came <hi>running.</hi> His courſe ſteddy, he kept the <hi>high way</hi> unto Ieſus. His carriage hum<g ref="char:EOLhyphen"/>ble, he <hi>Kneeled.</hi> His deſire earneſt: <hi>Good maſter! what ſhall I doe to inherit eternall life?</hi> Yea when Chriſt had repeated unto him the precepts, it ap<g ref="char:EOLhyphen"/>peared that his life was unſpotted. For he anſwe<g ref="char:EOLhyphen"/>red confidently; <hi>all theſe have I obſerved from my youth. Mar.</hi> 10.20. <hi>what lack I yet? Mat.</hi> 19.20. <hi>Whereupon Ieſus looked on, and loved him. Mar.</hi> 10.21. If this man failed, who then ſhall obtaine?</p>
+            <p>Yet he was too ſoon out of breath: there being but one ſtep between him and home he gave ouer: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>one thing thou lackeſt,</hi> ſaith Chriſt, <hi>v.</hi> 21. Shall one ſaying confound, one blow aſtoniſh, one thing diſcourage thee? Having much thou muſt have ſomething more: one gaſp with one ſtraine will reach it. This one, and this thing only thou wanteſt. <hi>Goe ſell that thou hast, give to the poore, take up the croſſe and follow mee. v.</hi> 21.</p>
+            <p>That ſet his winde; for he had great poſſeſſions, v. 22. He ranne well indeed had he held out, but be<g ref="char:EOLhyphen"/>ing ſo full could no longer runne with patience. Curſed is the over-plus, which by the reſervation deprives a man of the ineſtimable treaſure.</p>
+            <p>Theſe two have been common evils; and to cure them Gods work is ſtrange.</p>
+            <p>The Memento of <hi>Lots</hi> wife, <hi>remember her,</hi> would not ſerve our backſliding <hi>Epheſus.</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 17.32.</note> Power and pow<g ref="char:EOLhyphen"/>er ſuperior and inferior, Lords and Peſants, Father and Child, Brother and Brother, Maſter and Ser<g ref="char:EOLhyphen"/>vant,
+<pb n="10" facs="tcp:155988:8"/>one oppoſeth another, that the ſword may be made drunk in Chriſtian blond. Iuſtice will be ſo ſatisfied, and the truth approved ſo.</p>
+            <p>The <hi>unum neceſſarium,</hi>
+               <note place="margin">
+                  <hi>Luc.</hi> 10.42.</note> which he that hath en<g ref="char:EOLhyphen"/>joyes enough, that hath not, is nothing worth, could not returne our vain Coſmopolites. All muſt be ſold, and in this caſe there's no feare of being worſe then infidells. Not that the price may be laid at their Apoſtles feet, who ſtirre up the duſt to ſtifle the Monarchie. Caſt it ſhould be into the Kings treaſury to help ſupport the high diſparity between he Scepter and the Coulter. Who will not goe ſo farre, yee may rate your vanities, bring in ſo much, and the work is done.</p>
+            <p>This is one way I am ſure to juſtify Gods moſt reſpected on earth; and every one that fears the Lord, and honours the King will be ſo juſtified. A viſible means to uphold the truth, recover peace, relieve our families, and maintain plenty. A ſigne too that we have our meaſure of grace here, and ſhall have full happineſſe hereafter. The loſſe of temporalls in Gods cauſe fore-goes and immenſe weight of glory in Heaven.</p>
+            <p>'Tis plain, I favour not the <hi>Priſcillianists,</hi> that wave this patience; nor the <hi>Gnoſticks,</hi> that allow no patience for the name of God.</p>
+            <p>Nor intend I the deſperate patience of the <hi>Patri<g ref="char:EOLhyphen"/>cians</hi> cutting their own throats to be quit of evill: Nor the vain-glorious patience of the <hi>Donatists,</hi> in<g ref="char:EOLhyphen"/>curring the diſpleaſure of Magiſtrates to ſtile them<g ref="char:EOLhyphen"/>ſelves Martyrs. Nor the compelled patience of
+<pb n="11" facs="tcp:155988:8"/>tranſgreſſors, who in the hands of juſtice, will they; nill they<g ref="char:punc">▪</g> muſt ſuffer. Nor the abuſed patience of the <hi>Papiſts,</hi> in their voluntary ſuperſtitio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of ca<g ref="char:EOLhyphen"/>ſtigation, by flagellation, peregrination, abſtinence, &amp;c. Nor the miſled patience of our <hi>Catharists, Se<g ref="char:EOLhyphen"/>paratiſts, Noviliſts,</hi> that moſt profuſely expend their goods, friends, liberties, lives, to infringe the ſacred Authority of our Soveraigne Lord the King, and our holy Mother the Church.</p>
+            <p>The well informed patience I commend: that, and that only, whereof Ieſus Chriſt hath given him<g ref="char:EOLhyphen"/>ſelfe an example.</p>
+            <p>Thereto conformeus, Lord, and ſtay us there, ſo ſhall we be right. Equally to thee at liberty, and in thrall.</p>
+            <p>True Chriſtians, we inſpecting the ſtate of wick<g ref="char:EOLhyphen"/>ed men, take care to prevent the like miſchiefe in our ſelves. We are not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo mad to end in the fleſh, beginning in the ſpirit. With our encreaſe of daies grace growes in us. And ſuch is her virtue that all things are ſubject to her patience. Fire burn<g ref="char:EOLhyphen"/>ing other places builds her houſe: and death killing other things brings her life. <hi>Gaudet patientia duris:</hi> we by that heavenly influence have the property to be fatted with penurie. In hazards beſt known, whoſe courage may not be abated by difficulties. When the right object is before us, we are never im<g ref="char:EOLhyphen"/>patient; moſt violent alwaies againſt the wrong. No obſtinacy this: nor a will that followes what it liſts. We want not ſo much diſcretion, that our judgements ſhould be therein queſtioned. For runne
+<pb n="12" facs="tcp:155988:9"/>we doe, and ever let us, with patience the race, that is ſet before us.</p>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>The race that is ſet before us.</l>
+            </q>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies bickering, and a game, whereat one endeavoureth to ſurpaſſe another. Of this were five kinds, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. In uſe, and in our dialect; Dancing, Quo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing, Tilting, Wreſtling, Running.</p>
+            <p>The laſt is here; and tranſlated <hi>ſtadium,</hi> becauſe a place where running is exerciſed.</p>
+            <p>It's the eight part of a mile, 125. paces, each pace five foot. At firſt invented by <hi>Hercules,</hi> and called a ſtade; becauſe he runne i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at one breathing, and then <hi>reſpirâſſet, ſimul<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſtetiſſet, drew breath, and ſtaied.</hi>
+            </p>
+            <p>
+               <hi>Per metaphoram</hi> the life of a Chriſtian, which <hi>Iob</hi> termes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, warfare. <hi>Iob</hi> 7.1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, full of tryalls, outward and inward. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>without fightings, within feares.</hi>
+            </p>
+            <p>The inward are exanimations, and temptations.</p>
+            <p>The firſt ariſe out of the infirmity of mind, or weakneſſe of faith: as ſadneſſe of heart, guiltineſſe of conſcience, &amp;c.</p>
+            <p>The ſecond are inducements, or allurements un<g ref="char:EOLhyphen"/>to ſinne: which according to the diverſity of prince<g ref="char:EOLhyphen"/>pall agents be three fold.</p>
+            <p n="1">1. Of the fleſh, the armies of luſts, that muſter themſelves to beleaguer, and batter the religious for<g ref="char:EOLhyphen"/>tifications of the ſoule.</p>
+            <p n="2">2. Of the world, ſuch as, under pretence of pro<g ref="char:EOLhyphen"/>fit
+<pb n="13" facs="tcp:155988:9"/>or pleaſure, entice man from himſelfe, that Sa<g ref="char:EOLhyphen"/>tan lying in ambuſh may ſurpriſe the hold.</p>
+            <p n="3">3. Of the Divell, thoſe, which be by his immedi<g ref="char:EOLhyphen"/>ate inſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uation: as murmurings, diſtruſt, &amp;c. Theſe are like the mutinous in a beſieged Citty, or the tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cherous, that by ſedition, or otherwiſe would deliver it into the hands of the enimy.</p>
+            <p>The outward <hi>agoniſmata,</hi> or tryalls, conſiſt either in the affliction of the body, as ſickneſſe, impriſon<g ref="char:EOLhyphen"/>ment, &amp;c. Or in the loſſe of goods, by fraud, extor<g ref="char:EOLhyphen"/>tion, &amp;c. or in both, by perſecution, Rebellion, &amp;c. evills tolerated, cryed up, and under a ſuppoſed un<g ref="char:EOLhyphen"/>erring Authority made familiar in theſe daies.</p>
+            <p>They are ſo: but this is the miſery of all: the grand plunders of our lives, and livelyhoods turne the ſword of the ſpirit againſt the ſpirit of truth, and the ſword of juſtice againſt the juſtice of the Law. As if the uſe of either to defend both were againſt both in us.</p>
+            <p>Thus aſſaulted Chriſtianity may be, juſtly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and we agoniſts. Some therefore read, let us runne to the fight that is ſet before us, Running, Fighting, both imply much ſtriving. Yea others <hi>in certamine,</hi> as if we ſhould runne fighting, like thoſe, that pur<g ref="char:EOLhyphen"/>ſue their enimies in fight.</p>
+            <p>
+               <hi>Ne Hercules contra duos,</hi> is old and rife. But eve<g ref="char:EOLhyphen"/>ry good Chriſtian fights againſt the Divell, the World, the Fleſh, and their legions.</p>
+            <p>The firſt hath innumerable ſpirits to over<g ref="char:EOLhyphen"/>throw, the ſecond nets in every corner to catch, and the third various concupiſcences as flames of fire to conſume us.</p>
+            <pb n="12" facs="tcp:155988:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:155988:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:155988:11"/>
+            <p>Nor is it ſufficient to grapple with them; we muſt, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, be maſters of the field. For <hi>vincenti dabitur,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 2.10.</note> though many runne and fight, yet he only that conquereth wears the crowne.</p>
+            <p>A ſtrange courſe this,<note place="margin">Ob.</note> and to be victorious im<g ref="char:EOLhyphen"/>poſſible.</p>
+            <p>Impoſſible to carnall minds:<note place="margin">Sol.</note> but if we look unto Ieſus, who triumphed over Satan, made the World his footſtoole, and ſubdued our rebellious fleſh, it is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>an eaſy yoke,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a light bur<g ref="char:EOLhyphen"/>then. Mat.</hi> 11.30. Beleeve and all things are poſ<g ref="char:EOLhyphen"/>ſible.</p>
+            <p>Firſt, reſiſt the Divell <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>being ſtrong in faith,</hi> 1. <hi>Pet.</hi> 5.9. <hi>and he will fly. Iam.</hi> 4.7.</p>
+            <p>Secondly, pretious, and very great promiſes are given us, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>that through them ye ſhould be partakers of the Divine nature.</hi> 2. Pet. 1.4, 5.</p>
+            <p>Thirdly this is the victory that overcometh the world, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>even our faith.</hi> 1. <hi>Ioh.</hi> 5.4.</p>
+            <p>But among ſo many enimies abroad, and ſuch Re<g ref="char:EOLhyphen"/>bells at home, no marvell if we ſuſtain ſome dam<g ref="char:EOLhyphen"/>mage. We may, and gaine thereby. For that loſſe diſcovers where the traitor is, and he being cut off the officers ſent forth by the underſtanding and af<g ref="char:EOLhyphen"/>fections become more wary, and all our forces more valiant for the future.</p>
+            <p>So warie, and ſo valiant that nothing may divide us from Chriſt-Not baniſhment: wee find the E<g ref="char:EOLhyphen"/>vangeliſts in <hi>Pathmos.</hi> Not <hi>cutting</hi> in pieces: <hi>Iſaiah</hi> lay under the wodden ſaw. Not <hi>drowning: Ionah</hi> di<g ref="char:EOLhyphen"/>ved into the living gulfe. Not <hi>devouring: Daniel</hi>
+               <pb n="15" facs="tcp:155988:11"/>was in the ſealed den among his terrible compani<g ref="char:EOLhyphen"/>ons. Not <hi>burning:</hi> behold the three children walk<g ref="char:EOLhyphen"/>ing in the fierie furnace. Not <hi>ſtoning:</hi> ſee the firſt Martyr under his heap of many grave-ſtones. Nor <hi>beheading:</hi> loe there's the <hi>Baptists</hi> head bleeding in <hi>Herodias</hi> Platter.</p>
+            <p>Not the wedge of gold, the height of honour, nor the fill of pleaſure; S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> eſteemes them loſſe, and dung.</p>
+            <p>Nor can Satan, unleſſe we yeeld, nor ſinne with<g ref="char:EOLhyphen"/>out impneitence, nor any thing without infidelity, <hi>ſeparate us from the love of God in Chriſt Ieſus. Rom.</hi> 8.39.</p>
+            <p>Vnto the worlds <hi>decipiam,</hi> the fleſhes <hi>inficiam,</hi> the Divells <hi>interficiam</hi> apply Chriſts <hi>reficiam,</hi> and what was ſaid of griefe, we may of our race. <hi>Si lon<g ref="char:EOLhyphen"/>gus levis: ſi ſummus brevis. If long, light. If violent, ſhort.</hi>
+            </p>
+            <p>So ſhort, that S<hi rend="sup">t</hi> 
+               <hi>Iames</hi> compares our life to a va<g ref="char:EOLhyphen"/>pour, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>vaniſhing in the appearing. Iam.</hi> 4.14. And <hi>Iob</hi> calls it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as paſſing like a puffe of wind. <hi>Iob.</hi> 7.7.</p>
+            <p>If the Malignants might prevaile, and wee by ſtrong deſtinie come under their curious torments, what were this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of miſery, to that eternall joy before us?</p>
+            <p>Suppoſe the worſt, you are unwilling to conceive, ſhould happen, ſhall we thereat ſtorme? God for<g ref="char:EOLhyphen"/>bid. For in us is cauſe enough of the one: and if we goe to the next words no reaſon may be had for the other. Becauſe we are to runne the race.</p>
+            <q>
+               <pb n="16" facs="tcp:155988:12"/>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>Which is ſet before us.</l>
+            </q>
+            <p>Iobſerve the participle only uſed in the new Te<g ref="char:EOLhyphen"/>ſtament, and tranſlated <hi>propoſitum,</hi> that is, <hi>ex Deo ſtatutum,</hi> purpoſed and ordained by God for us.</p>
+            <p>The decree eternall, but the promulgation in time. In time preached and practiſed by the Patri<g ref="char:EOLhyphen"/>archs, Prophets, Chriſt himſelfe, the Apoſtles, Martys, and Fathers of the Church.</p>
+            <p>What is ſo conſtituted, by the grace of God we follow. For as before the Conqueror he ſets glory, before them that hope pardon; ſo <hi>certantibus propo<g ref="char:EOLhyphen"/>nit gratiam,</hi> before them that runne to fight, he ſets grace.</p>
+            <p>The originall word makes it good. Becauſe in the execution of the decree are contained as well governing, guiding, &amp;c. as creating, making, &amp;c. He that is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to ſet forth this race, is alſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to provide for the runners.</p>
+            <p>If God ſhould appoynt a race, and deſert the run<g ref="char:EOLhyphen"/>ners, the race might be ſet, fore-ſet, and ſet before us in vaine. There is then a government, and therein a conſervation. Meanes extraordinary to feed the <hi>Iſraelites</hi> with Manna, and ordinary to feed <hi>David</hi> with bread.</p>
+            <p>At the loweſt ebb, bleſſed be God, I never found room for deſpaire. Nor is it preſumption to Preach that one man may chaſe a thouſand: and He, that ſeemed to have no power, ſhall have all over His Subjects. No ſuch offence certainly: For Gods might is manifeſted in weakneſſe, 2. <hi>Cor.</hi> 12.9. And
+<pb n="17" facs="tcp:155988:12"/>as ſure as <hi>S. Paul,</hi> and <hi>S. Peter</hi> are right, every ſoule is bound to advance the Lords Chriſt next unto Chriſt the Lord, <hi>Rom.</hi> 13. 1. <hi>Pet.</hi> 2.13. If it be a<g ref="char:EOLhyphen"/>gainſt any maligne propoſition, ſo be it. The jew<g ref="char:EOLhyphen"/>ells I put into the peoples eares, taken out, will not be turned into a molten calfe.</p>
+            <p>I ſee what is ſet, and feel my own pulſe beat in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I have not then digreſſed: For <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> make the emphaſis full to every one.</p>
+            <p>That and no other. but what that is needs not be repeated. Before; not behind to runne back: nor on either ſide, ſo to runne. Before us it's ſet, we are ſure of that. For in the way, permitted to our try<g ref="char:EOLhyphen"/>all, all the malice, the Divell and his agents can vent, is wrecked on us.</p>
+            <p>Yet we muſt runne, and with patience wee. Not as left to our ſelves, of our ſelves we are not able. <hi>Rom.</hi> 9.16. He therefore,<note place="margin">
+                  <hi>Mat.</hi> 6.7. <hi>&amp;</hi> 7.7</note> that knowes what we want, commands us to aske. Strength is appoyn<g ref="char:EOLhyphen"/>ted for the runners, and aſſiſtance for the fighters, if they running, ſighting call for ſtrength and aſsi<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p>God, purpoſing both the prayer, and the graunt, decreed to graunt when we pray.<note place="margin">
+                  <hi>Gen.</hi> 22.17. <hi>&amp;</hi> 25.21.</note> 
+               <hi>Abraham</hi> was to be a father of many Nations, yet <hi>Iſaac</hi> muſt pray before <hi>Rebecca</hi> conceive. <hi>Providentia non to litt cau<g ref="char:EOLhyphen"/>ſas ſecandas, ſedillis utitur,</hi> Predeſtination is fulfil<g ref="char:EOLhyphen"/>led by meanes, and the ſpirit provokes us by the ſame to accompliſh Gods providence.</p>
+            <p>Religion affords man his will in the Work, and God his work in the order. The Souldiers fight, the
+<pb n="18" facs="tcp:155988:13"/>Generall leads.<note place="margin">1. <hi>Cor.</hi> 15.10.</note> We runne, Chriſt guides. God hath his work: <hi>Draw me:</hi> man his will: <hi>We will run after thee. Can.</hi> 1.4.</p>
+            <p>I would not torment your patience. As Chriſt faid unto his Apoſtles, I may unto you, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the way ye know.</hi> Tis old and good, <hi>walke therein that yee may find reſt for your ſoules. Ierem.</hi> 6.16.</p>
+            <p>If this ſeem obſcure, the Prophet <hi>Iſaiah</hi> ſends you unto the Law and Teſtimony. <hi>Iſa.</hi> 8.20. There's the way we ſhould, and the way we may not goe.</p>
+            <p>If that ſuffice not, King <hi>David</hi> puts it out of que<g ref="char:EOLhyphen"/>ſtion. <hi>I will runne the the waies of thy Commandements, Pſal.</hi> 119.32. The wayes of the Lord are the works of his Law; and the race ſet before is the Comman<g ref="char:EOLhyphen"/>dements he hath given us. Every ſanctified thought, every gratious word, every good deed is a ſtep in this race. Vnite theſe, be active in, and conſtant to them. Doe, and, maugre all oppoſition, endure. Let the Apoſtle have his deſire, and you ſhall reap the gaine.</p>
+            <p>☞ <hi>You,</hi> not the <hi>Simonians,</hi> that ſleight this race, as if the <hi>Amanuenſes</hi> of the Holy Ghoſt were fanaticks. Nor the <hi>Helceſaits,</hi> that, as croſſes come, and goe, leave or take the profeſsion of Chriſt. Nor the <hi>A<g ref="char:EOLhyphen"/>damites;</hi> that, Cynically abandoning modeſty, ad<g ref="char:EOLhyphen"/>mit every act of luſt, even in the higheſt degree.</p>
+            <p>
+               <hi>You,</hi> not the <hi>Meſſalians,</hi> that live, as if they would out doc the Divell in Wickedneſſe. Nor the <hi>Apostolicks,</hi> breaking the rules of Propriety, licence all manner of thefts. Nor the <hi>Puritans,</hi> that will have no peace on good conditions, therein
+<pb n="19" facs="tcp:155988:13"/>worſe then the <hi>Marcionites,</hi> and eldeſt <hi>Anabaptiſts,</hi> refuſing warre on any termes.</p>
+            <p>
+               <hi>You,</hi> not the <hi>Marcites,</hi> who worſhip the Divell. Nor the <hi>Bardeſanites,</hi> who attribute all things to Fate, as the <hi>Valentinians</hi> did to Characters. Nor the <hi>Nepotians,</hi> who dream of an eternity in earthly delights. Nor the debouched Predeſtinates, who carouſe their memory unto oblivion, and are more full of Oathes then wiſe men will be of words.</p>
+            <p>But you, whom all the miſchiefs in the world may inviron, not enſnare: you poſſeſsing your ſoules in patience ſhall be crowned with everlaſting happineſſe.</p>
+            <p>Lord, thy Peſtilence could not prevent our e<g ref="char:EOLhyphen"/>vills; nor doth the Sword ſtay them: if the Famine muſt; take thou thy will of us, whileſt we are im<g ref="char:EOLhyphen"/>boldned to expect reliefe from thee.</p>
+            <p>True Chriſtians we are inriched with that Iewell, which in quantity, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as the ſmalleſt graine, is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of more value then the whole world. One of us may therewith chaſe legions of enimies, and paſſe through the midſt of Hell into Heaven. With it we can levell Mountaines, &amp; raiſe vallies; ſmooth rugged waies, and make the crooked ſtraight. With it depoſing out burthen of ſinne under the croſſe we lay hold on high, and ſhall not let goe, till wee goe into glory. Thus eſtabliſhed in our humility, are ſure to be triumphant at laſt. Though oppoſiti<g ref="char:EOLhyphen"/>on cauſe our hearts to bleed, yet our cries are heard, our teares boded, &amp; pretious is the blood of Saints. Not utterly deſtroying our foes, we have not loſt
+<pb n="18" facs="tcp:155988:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:155988:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:155988:15"/>by our will. Faith tells us, that what we <hi>would</hi> ſhall be accepted for the <hi>deed.</hi> Then on with courage: the Lords hand is not ſhortned. He can yet ſave and proſper yet. Who gives ſo much vertue to us, in us will crowne his grace. <hi>Let us runne with patience the race that is ſet before us,</hi> looking unto Ieſus the Author, and finiſher of our faith. To whom with the Father and the holy Spirit be all power and glory for ever, and ever.</p>
+            <closer>AMEN, AMEN.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb n="21" facs="tcp:155988:15"/>
+            <head>
+               <hi>ADVERTISEMENT</hi> for his Countrimen who are miſled, and therefore diſaffected to the ROYALL CAUSE.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>N error timely ſeen may happily be recalled. Who is not blind perceives that, of the conqueſt aimed at, you will come ſhort.</p>
+            <p>But can there be recovery at a precipice? yes; between the bridge and wa<g ref="char:EOLhyphen"/>ter I found grace. You can beſt tell, I know not, how farre ye are gone. Be as pittifull to your ſelves as J am charitable unto you. Take heed: the poynt is neere. I had rather fall down before J come to then on, or over a Rock.</p>
+            <pb n="22" facs="tcp:155988:16"/>
+            <p>Who mind not that premonition ſhall meet a Lion, Wiſe, ſtately, ſtrong in the way: ſo cloſely followed too by the goodlieſt in the Forreſt, that he will roare, teare, and devoure where he's op<g ref="char:EOLhyphen"/>poſed.</p>
+            <p>But may you lay your Country waſt, and be pious ſtill? Or would you have no poſterity; or ſuch a one as ſhall curſe you, or be content to build, with the aſhes of your fortunes?</p>
+            <p>Think not to call it Deſtine, leſt it be recorded your folly. Nor may you plead Religion, not Chriſtian Religion I am ſure. Becauſe ye twhart in your courſe every precept, ſlight Chriſts pray<g ref="char:EOLhyphen"/>er, and contemne the Apoſtles Creed.</p>
+            <p>You may ſtile us AEgyptians, dumb-doggs, or what ye pleaſe: yet we ſpeak the ſame language with you, and ſhall barke, when yours will either ſleep or lye very ſtill.</p>
+            <p>Be not miſtaken: perturb'd we are, not diſ<g ref="char:EOLhyphen"/>maied. A great bleſsing viſibly hovers over, and wil ſettle on the Crowne.</p>
+            <p>It will and needs muſt. For his Soveraigne <hi>Majeſty</hi> is moſt Religious, Mercifull, Iuſt. No Papiſt, nor Popiſhly affected; his mercy is over
+<pb n="23" facs="tcp:155988:16"/>all his actions; his juſtice values every ſcru<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Soe mindefull alſo of His Subjects that twice a day he prayes, and conſtantly for them. For the loyall that they may perſevere, for the other, that they might be undeceived.</p>
+            <p>J beſeech you believe, and permit me to tell the men of your undoing Claſſes, they are impu<g ref="char:EOLhyphen"/>dent and more then Jeſuits. I ſhall not again introduce the diametricall oppugning that God whom they would ſeem to adore. Their evomited virulence againſt the Lords Annoynted, and His Prophets is proof enough. Read the <hi>2. Tim. c. 3.</hi> unto the <hi>10.</hi> verſe, and know them by their Character.</p>
+            <p>Puffs may be trod vnder foot without dan<g ref="char:EOLhyphen"/>ger of the eyes. But thoſe are Wolfes in Sheeps clothing, falſe and bloody No envy, nor malice this. A reall diſcharge of his conſcience, whoſe heart groanes under the heavy ſtormes of inhu<g ref="char:EOLhyphen"/>manities raiſed by them.</p>
+            <p>It doth: God enable me in the race to be pati<g ref="char:EOLhyphen"/>ent among the runners, and of his mercy returne them and you unto us.</p>
+            <pb n="24" facs="tcp:155988:17"/>
+            <p>Thus praying for aſsiſtance, he never forgets their and your converſion,</p>
+            <closer>
+               <signed>Who is deſpiſed of both, for his fidelity to the King, &amp; obedience to the Church, T. B.</signed>
+               <date>
+                  <hi>May.</hi> 16. 1643.</date>
+            </closer>
+            <pb facs="tcp:155988:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
